@@ -1,2 +1,2 @@
-###Atividade POO 2
-Feito por Leonardo, Victor e Werner
+## Atividade de POO
+Desenvolvido por Leonardo, Victor e Werner
